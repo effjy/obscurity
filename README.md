@@ -1,6 +1,6 @@
 # 🔐 Obscurity — Simulated Suite A‑Style Operational Cipher
 
-> 📁 **REPOSITORY STATUS**: `PRIVATE` | `INTERNAL RESEARCH` | `v3.0.0-r1`
+> 📁 **REPOSITORY STATUS**: `PRIVATE` | `INTERNAL RESEARCH` | `v3.0.2-r1`
 > 🔒 This repository is maintained under operational secrecy. Distribution, forking, or external sharing is restricted to authorized personnel only.
 
 ## 🎯 Overview
