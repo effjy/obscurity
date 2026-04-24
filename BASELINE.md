@@ -1,9 +1,3 @@
-Understood. You want the **complete** original changelog (from v1.0 all the way up to v3.0.2‑r1) preserved, plus all the other sections (diffusion report, dieharder results, etc.), rewritten as plain conversational text with emojis and badges, and changed to **public domain**. No markdown formatting – just normal speech with line breaks and emojis.
-
-Here it is. I've kept every entry from the original changelog exactly as you wrote them, just in plain text.
-
----
-
 📛 Badges: [License: CC0 1.0] [Public Domain Research] [Language: C] [Security: Constant-Time] [Status: Active – Public] [Fidelity: 98/100]
 
 📁 REPOSITORY STATUS: PUBLIC DOMAIN RESEARCH | OPEN SOURCE | v3.0.2‑r1  
