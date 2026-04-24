@@ -1,0 +1,2 @@
+# Compile (no external deps needed for this demo)
+gcc -O2 -march=native -Wall -Wextra -o diffusion_demo diffusion_demo.c
