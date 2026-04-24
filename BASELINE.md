@@ -1,4 +1,11 @@
-📛 Badges: [License: CC0 1.0] [Public Domain Research] [Language: C] [Security: Constant-Time] [Status: Active – Public] [Fidelity: 98/100]
+<div>
+  <img src="https://img.shields.io/badge/License-CC0%201.0--Universal-blue" alt="License: CC0 1.0 Universal">
+  <img src="https://img.shields.io/badge/Purpose-Public%20Domain%20Research-lightgrey" alt="Purpose: Public Domain Research">
+  <img src="https://img.shields.io/badge/Language-C-blue" alt="Language: C">
+  <img src="https://img.shields.io/badge/Security-Constant--Time-brightgreen" alt="Security: Constant-Time">
+  <img src="https://img.shields.io/badge/Status-Active%20Public-yellow" alt="Status: Active Public">
+  <img src="https://img.shields.io/badge/Fidelity-98%2F100-success" alt="Fidelity: 98/100">
+</div>
 
 📁 REPOSITORY STATUS: PUBLIC DOMAIN RESEARCH | OPEN SOURCE | v3.0.2‑r1  
 🌍 This entire repo is now public domain. Use freely – but read the warning.
