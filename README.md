@@ -74,7 +74,7 @@ sudo dnf install libargon2-devel openssl-devel libsodium-devel gcc
 
 Then build:
 
-git clone https://github.com/yourusername/obscurity.git  
+git clone https://github.com/effjy/obscurity.git  
 cd obscurity  
 make  
 make test
